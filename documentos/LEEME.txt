@@ -1,0 +1,8 @@
+Coloca aquí los siguientes PDFs:
+
+1. politica-sig-v07.pdf  -> Política de calidad, medio ambiente y SST (V07)
+2. alcance-sig.pdf       -> Alcance del Sistema Integrado de Gestión
+3. alcance-sgsv.pdf      -> Alcance del Sistema de Gestión de Seguridad Vial
+
+Estos archivos los referencian las tarjetas de la sección
+"Certificaciones" en la página web (index.html).
